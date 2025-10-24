@@ -1,0 +1,4 @@
+Download the MedQuAD dataset from:
+https://github.com/abachaa/MedQuAD
+
+Extract the folder and place it here before running app.py
